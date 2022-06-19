@@ -1,0 +1,16 @@
+Z:\GameMaker\GameMaker\obj\Debug\GameMaker.csproj.AssemblyReference.cache
+Z:\GameMaker\GameMaker\obj\Debug\GameMaker.Properties.Resources.resources
+Z:\GameMaker\GameMaker\obj\Debug\GameMaker.csproj.GenerateResource.cache
+Z:\GameMaker\GameMaker\obj\Debug\GameMaker.csproj.CoreCompileInputs.cache
+Z:\GameMaker\GameMaker\bin\Debug\GameMaker.exe.config
+Z:\GameMaker\GameMaker\bin\Debug\GameMaker.exe
+Z:\GameMaker\GameMaker\bin\Debug\GameMaker.pdb
+Z:\GameMaker\GameMaker\obj\Debug\GameMaker.exe
+Z:\GameMaker\GameMaker\obj\Debug\GameMaker.pdb
+Z:\GameMaker\GameMaker\obj\Debug\Engine.Interface.ProjectMenu.resources
+Z:\GameMaker\GameMaker\obj\Debug\Engine.Errors.Basic.BasicError.resources
+Z:\GameMaker\GameMaker\obj\Debug\Engine.Errors.Critical.CriticalError.resources
+Z:\GameMaker\GameMaker\obj\Debug\Engine.Errors.Warming.WarmingError.resources
+Z:\GameMaker\GameMaker\obj\Debug\Engine.Screens.SavingScreen.resources
+Z:\GameMaker\GameMaker\obj\Debug\Engine.Screens.Launching.LaunchingScreen.resources
+Z:\GameMaker\GameMaker\obj\Debug\Engine.Screens.Saving.SavingScreen.resources
